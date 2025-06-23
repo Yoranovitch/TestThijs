@@ -1,0 +1,24 @@
+sound effects:
+	swap
+	buttons
+	victory
+
+change datatypes a bit (more random)
+
+when choosing pivot card in left hand, hand of ori moves as well
+hand overlapping or out of bounds (look into merge pos)
+on merge left also moves weird
+
+fix merge steps fast
+
+merge:
+compare and -lives for merge steps
+track merge order (-lives if so)
+
+look into insertion sort no_swap finished
+
+sectie 1 (quiz): 4:05
+sectie 2 (game): 24:57
+sectie 3 (eval): 27:32
+
+
